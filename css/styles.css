@@ -1,0 +1,29 @@
+
+body{
+    background-color: #e54c9185;
+
+}
+
+.titulo{
+    font-family: 'Inter', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Sulphur Point', sans-serif;
+    font-size: 40px;
+    color:#000;
+    position: absolute;
+    margin-left: 500px;
+
+}
+
+.banner{
+    width: 350px;
+    background: linear-gradient(#E54C91, #F48B7B, #F7AD50);
+    border-radius: 30px;
+}
+
+.aluno{
+    position: relative;
+    width: 500px;
+    margin-top: 85px;
+    margin-left: 5px;
+}
