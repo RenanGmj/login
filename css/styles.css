@@ -27,3 +27,51 @@ font-family: 'Sulphur Point', sans-serif;
     margin-top: 85px;
     margin-left: 5px;
 }
+
+.login_simplificado{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 150px;
+
+}
+
+.icone{
+    padding-left: 100px;
+    display: inline;
+    font-size: 25px;
+    
+}
+
+.icone_2{
+    padding-left: 200px;
+    display: inline;
+    font-size: 25px;
+}
+
+.img_1{
+    position: absolute;
+    margin-top: 148px;
+    margin-left: 580px;
+    width:30px ;
+}
+
+.img_2{
+    position: absolute;
+    margin-top: 140px;
+    margin-left:850px ;
+}
+
+.formulario{
+    position: absolute;
+    margin-top: 250px;
+}
+
+.campo{
+    width: 430px; 
+    height: 50px ;
+    margin-top: 20px ;
+    margin-left: 580px;
+    border-radius: 10px;
+    background: #e54c9144;
+    
+}
