@@ -73,5 +73,19 @@ font-family: 'Sulphur Point', sans-serif;
     margin-left: 580px;
     border-radius: 10px;
     background: #e54c9144;
+    font-family: 'Inria Serif', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 30px;
     
+}
+
+.subtexto{
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 589px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Sulphur Point', sans-serif;
 }
