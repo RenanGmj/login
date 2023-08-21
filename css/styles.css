@@ -15,6 +15,10 @@ font-family: 'Sulphur Point', sans-serif;
 
 }
 
+.multicolor{
+    color:#F7AD50 ;
+}
+
 .banner{
     width: 350px;
     background: linear-gradient(#E54C91, #F48B7B, #F7AD50);
@@ -78,6 +82,7 @@ font-family: 'Sulphur Point', sans-serif;
     font-family: 'Kalam', cursive;
     font-family: 'Sulphur Point', sans-serif;
     font-size: 30px;
+    box-shadow: 8px 8px ;
     
 }
 
@@ -88,4 +93,21 @@ font-family: 'Sulphur Point', sans-serif;
     font-family: 'Inter', sans-serif;
     font-family: 'Kalam', cursive;
     font-family: 'Sulphur Point', sans-serif;
+}
+
+.botão{
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    margin-left: 880px;
+    margin-top:430px ;
+    background-color: #e54c9144;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Sulphur Point', sans-serif;
+    box-shadow: 6px 6px;
+    
+    
 }
